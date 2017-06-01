@@ -61,7 +61,7 @@ footer a:last-child{
   /*flex-grow: 1;*/
   align-items:center;
   text-align: center;
-  background-image: url('https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495020021107&di=8f985dcf6f34cda40887186f9421b652&imgtype=0&src=http%3A%2F%2Fwww.lady8844.com%2Fh041%2Fh10%2Fimg201410302312200.jpg');
+  background-image: url('./cat.jpg');
   background-size: cover;
 }
 .home-wrap div{
